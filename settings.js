@@ -6,7 +6,7 @@ const chalk = require('chalk')
 🤖 𝗕𝗢𝗧 𝗦𝗘𝗧𝗧𝗜𝗡𝗚𝗦
 */
 global.OFFLINE = true // if you want put bot offline put true
-global.BOT_PRIVATE = true // if you want use bot privet 
+global.BOT_PRIVATE = false // if you want use bot privet 
 global.AUTO_CHATGPT = false // if you want auto ai bot mod
 global.READ_MESSAGE = true // if you want read message from bot
 global.ONLY_INBOX = false // Only inbox mod ( only pm ) use
@@ -28,7 +28,7 @@ global.CAPTION = '*© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙾𝙿𝙴
 > Ai Bot Password Get From Watching This Video 
 */
 global.AI_PASSWORD = 'king-nima-gpt-bot'
-global.SESSION_ID = 'elisa_md@;;;kFNwFLZZ#9r4bhJvFkuesCvw8K2OVUC4aJK7tDD6D1CD0txWQ8K0'
+global.SESSION_ID = 'elisa_md@;;;pQkxxYwb#cVFAzoGL58FiILgV7uuNtTKX0JbLrmtM_IxEJDDgHgk'
 
 /*
 🎲 𝗢𝗧𝗛𝗘𝗥 𝗦𝗘𝗧𝗜𝗡𝗚𝗦
